@@ -1,0 +1,15 @@
+.container{
+    background-color: aliceblue;
+    padding: 4%;
+    border-radius: 5%;
+}
+
+.icon{
+    display: flex;
+    justify-content: space-around;
+    font-size: xx-large;
+}
+
+p{ 
+font-size: large;
+}
